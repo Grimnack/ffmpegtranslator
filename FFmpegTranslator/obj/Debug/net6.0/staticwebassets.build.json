@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xYGl71M5a2MUJPUtAUpIRJX98/gvXSLyAc2zVoBuNJA=",
+  "Source": "FFmpegTranslator",
+  "BasePath": "_content/FFmpegTranslator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
